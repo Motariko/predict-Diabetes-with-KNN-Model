@@ -37,7 +37,7 @@ y_pred = knn.predict(patient_data_scaled)
 if y_pred[0] == 1:
     print("คนไข้อาจเป็นเบาหวาน")
 else:
-    print("คนไข้อาจไม่เป็นโรคเบาหวาน")
+    print("คนไข้อาจไม่เป็นโรคเบาหวาน")#hello
 
 
                 
