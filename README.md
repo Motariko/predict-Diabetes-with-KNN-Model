@@ -1,1 +1,0 @@
-# predict-Diabetes-with-KNN-Model
